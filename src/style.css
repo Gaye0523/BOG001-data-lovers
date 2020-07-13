@@ -1,0 +1,61 @@
+@font-face{
+    font-family: FrizQuadrataRegular;
+    src: url(FrizQuadrataRegular.ttf);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: FrizQuadrataRegular;
+}
+
+footer{
+    font-family: FrizQuadrataRegular;
+    background: rgba(0, 0, 0, 0.9);
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.containerFooter{
+    width: 100%;
+    max-width: 1908px;
+    height: 260px;
+    margin: auto;
+}
+
+.containerFooter_fila1{
+    margin: 20px 0px 0px 500px;
+    max-height: 86.6px;
+    border: 1px solid white;
+    display: inline-flex;
+}
+
+#icon {
+    font-size: 40px;
+    line-height: 40px;
+    text-align: right;
+    color: rgba(191, 147, 11, 0.6);
+    padding-right: 60px;
+}
+
+.containerFooter_fila2 h1{
+    font-size: 48px;
+    padding: 0px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.containerFooter_fila3 h1{
+    font-size: 48px;
+    padding: 0px;
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+}  
+
+
+
+
+
+
+
