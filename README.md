@@ -277,7 +277,7 @@ Como en el proyecto anterior, existe un archivo `index.html`. Como ya sabes,
 acá va la página que se mostrará al usuario. También nos sirve para indicar
 qué scripts se usarán y unir todo lo que hemos hecho.
 
-### `src/main.js`
+### `src/main.js`|
 
 Recomendamos usar `src/main.js` para todo tu código que tenga que ver con
 mostrar los datos en la pantalla. Con esto nos referimos básicamente a la
