@@ -110,34 +110,34 @@ Carpeta con material visual utilizado en el cuerpo del proyecto
 
 ![skecth 1](src/Imagenes/Inicio.png)
 
-![skecth 1](src/Imagenes/Pagina_Media.png)
+![skecth 2](src/Imagenes/Pagina_Media.png)
 
-![skecth 1](src/Imagenes/Pagina_Final.png)
+![skecth 3](src/Imagenes/Pagina_Final.png)
 
 ### 5.1 Vista en mobile
 
-![skecth 1](src/Imagenes/Android.png)
+![skecth 1](Imagenes/../src/Imagenes/Vista-mobile1.png)
 
-![skecth 1](src/Imagenes/Android_1.png)
+![skecth 2](Imagenes/../src/Imagenes/Vista-mobile2.png)
 
-![skecth 1](src/Imagenes/Android_2.png)
+![skecth 3](Imagenes/../src/Imagenes/Vista-mobile3.png)
 
 
 ## 6. Look final del proyecto  
 
 ### 6.1   Vista de ordenador
 
-![Pantalla principal](Imagenes/../src/Imagenes/Pantalla_1.png)
+![Pantalla principal](Imagenes/../src/Imagenes/Vista-ordenador1.png)
 
-![Pantalla principal 1](Imagenes/../src/Imagenes/Pantalla_2.png)
+![Pantalla principal 1](Imagenes/../src/Imagenes/Vista-ordenador2.png)
 
-![Pantalla principa 2](Imagenes/../src/Imagenes/Pantalla_3.png)
+![Pantalla principa 2](Imagenes/../src/Imagenes/Vista-ordenador3.png)
 
 ### 6.2 Look final del proyecto en vista de mobile
 
-![Pantalla mobile](Imagenes/../src/Imagenes/Mobile_1.png)
+![Pantalla mobile](Imagenes/../src/Imagenes/Mobile-final1.png)
 
-![Pantalla mobile 1](Imagenes/../src/Imagenes/Mobile_2.png)
+![Pantalla mobile 1](Imagenes/../src/Imagenes/Mobile-final2.png)
 
 ## 7. Planning del proyecto
 
