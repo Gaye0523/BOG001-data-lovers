@@ -135,9 +135,9 @@ Carpeta con material visual utilizado en el cuerpo del proyecto
 
 ### 6.2 Look final del proyecto en vista de mobile
 
-![Pantalla mobile](Imagenes/../src/Imagenes/Mobile-final1.png)
+![Pantalla mobile](Imagenes/../src/Imagenes/Vista-final-mobile1.png)
 
-![Pantalla mobile 1](Imagenes/../src/Imagenes/Mobile-final2.png)
+![Pantalla mobile 1](Imagenes/../src/Imagenes/Vista-final-mobile2.png)
 
 ## 7. Planning del proyecto
 
