@@ -721,6 +721,11 @@ footer{
     .campeones{
         margin-left:70px;
     }
+
+    .campeones:hover .fuerza
+    {
+    font-size: 3vw;
+    }
 }
 
 @media (min-width: 401px) and (max-width: 900px){
