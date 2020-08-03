@@ -717,6 +717,10 @@ footer{
         width: 100%;
 
     }
+
+    .campeones{
+        margin-left:70px;
+    }
 }
 
 @media (min-width: 401px) and (max-width: 900px){
@@ -788,8 +792,16 @@ footer{
         font-size: 2vw;
     }
 
+    .campeones{
+        margin-left: 70px;
+    }
+}
 
-    
+@media (min-width: 700px) and (max-width:900px){
+
+    .campeones{
+        margin-left: 21px;
+    }
 }
 
 @media (min-width: 901px) and (max-width: 1200px){
