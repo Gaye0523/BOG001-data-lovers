@@ -87,7 +87,6 @@ document.getElementById("cover-ctn-search").addEventListener("click", hide_searc
 let ctn_bars_search = document.getElementById("ctn-bars-search")
 let cover_ctn_search = document.getElementById("cover-ctn-search")
 let inputSearch = document.getElementById("inputSearch")
-// let box_search = document.getElementById("box-search")
 
 function show_search() {
     ctn_bars_search.style.top = "100px"
