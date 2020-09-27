@@ -44,8 +44,6 @@ function Tarjetas(personajes) {
 }
 window.onload = Tarjetas(datos)
 
-/*SelectBox*/
-
 document.getElementById("btnabrir").addEventListener("click", function () {
     document.getElementsByClassName("fondo_transparente")[0].style.display = "block"
     return false
@@ -54,6 +52,7 @@ document.getElementsByClassName("modal_cerrar")[0].addEventListener("click", fun
     document.getElementsByClassName("fondo_transparente")[0].style.display = "none"
 })
 
+/*SelectBox*/
 const select = document.querySelector('#select')
 const option = document.querySelector('#options')
 const contentSelect = document.querySelector('#select .contentSelect')
@@ -87,7 +86,6 @@ document.getElementById("cover-ctn-search").addEventListener("click", hide_searc
 let ctn_bars_search = document.getElementById("ctn-bars-search")
 let cover_ctn_search = document.getElementById("cover-ctn-search")
 let inputSearch = document.getElementById("inputSearch")
-// let box_search = document.getElementById("box-search")
 
 function show_search() {
     ctn_bars_search.style.top = "100px"
